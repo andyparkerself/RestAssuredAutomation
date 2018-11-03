@@ -1,0 +1,16 @@
+language: java
+
+sudo: required
+
+java:
+  - 1.8.x
+
+
+install:
+  echo "Do nothing"
+
+script:
+  - npm install firebase-tools
+  - mvn test
+
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [RestAssuredAutomation.RestAssuredAutomation.AppTest]">
+  <test thread-count="5" verbose="0" name="Command line test(failed)">
+    <classes>
+      <class name="RestAssuredAutomation.RestAssuredAutomation.AppTest">
+        <methods>
+          <include name="firstTest"/>
+        </methods>
+      </class> <!-- RestAssuredAutomation.RestAssuredAutomation.AppTest -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [RestAssuredAutomation.RestAssuredAutomation.AppTest] -->
